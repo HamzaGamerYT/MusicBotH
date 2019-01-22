@@ -1,0 +1,6 @@
+﻿token=NTM3MTY2OTM2Nzc0MTQ4MDk2.DyhTzw.GQlQc_SKPF5f1PXJAoe1nRtQ03Y
+owner=532937392454369300
+prefix= $
+game= USE $help
+stayinchannel=true
+songinstatus=true 
