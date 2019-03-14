@@ -1,5 +1,5 @@
-﻿token=NTQyNjE5Njk2ODE4NTUyODMy.Dzwp0Q.XDq1-bFvc0pQiC1RLXSwYkL73iI
-owner=532937392454369300
+﻿token=NTM3MTY2OTM2Nzc0MTQ4MDk2.D2wUSg.9Vz1m389ugdG7MwlMlrwg0ymNuQ
+owner=479626796942360586
 prefix= $
 game= USE $help
 stayinchannel=true
